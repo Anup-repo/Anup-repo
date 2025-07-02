@@ -78,7 +78,7 @@
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anup-kumar-bal/)
-- 💻 [GitHub](https://github.com/Anup-repo)
+- 💻 [Article By Me](https://medium.com/@anupbal321)
 - ✉️ Open to collaborations, backend work, and AI/ML research projects!
 
 ---
